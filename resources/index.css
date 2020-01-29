@@ -1,4 +1,4 @@
 body {
   background-image: url("resources/homepage.jpg");
-  background-repeat: no-repeat;
+  background-size: cover;
 }
