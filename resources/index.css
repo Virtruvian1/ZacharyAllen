@@ -4,5 +4,9 @@ body {
 
 h1 {
   color: white;
-  text-indent: 50px
+  text-indent: 50px;
+}
+
+ul {
+  color: white;
 }
